@@ -1,0 +1,178 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Cirriculum Vitae
+
+###Allison Litmer
+####University of Arkanasas | Bio. Dept. SCEN 601 | 850 W. Dickson St. Fayetteville, AR 72703
+####arlitmer@uark.edu | (513)379-8341  
+
+***  
+
+Ph.D. Graduate Teaching Assistant    
+University of Arkansas  
+Major Professor: Dr. Steve Beaupre  
+Doctorate of Philosophy in Biology  
+
+###Education  
+Master of Science in Biology, December 2018  
+Tennessee Techological University  
+Major Professor: Dr. Christopher Murray  
+GPA 4.0/4.0  
+
+Northern Kentucky University  
+Bachelor of Science in Biology, Ecology, Evolution, and Organismal Science, May 2016  
+University Honors Scholar  
+GPA 3.5/4.0  
+GRE: Writing: 4.0 Quantitative Reasoning: 150 Verbal Reasoning: 154  
+Faculty Senate Award Nominee  
+
+###Teaching and Professional Experience  
+**Graduate Teaching Assistant, University of Arkansas**  
+Human Anatomy  
+
+**General Zoology Lab Content Coordinator, Tennessee Technological University**
+
+**Graduate Teaching Assistant, Tennessee Technological University**  
+General Zoology Lab  
+General Biology II
+
+**Undergraduate Teaching Assistant, Northern Kentucky University**  
+General Ecology
+
+**Biology Graduate Student Society, Tennessee Technological University**  
+Treasurer
+
+**American Society of Ichthyologists and Herpetologists**  
+Book Raffle Committee
+
+**Undergraduate Student Mentor**  
+Thomas Stroud, Cory Blackwelder, Lizzy Fortin, John Kartz, Tyler Slagel, Robert Buck, and Kyle Lyons
+
+**Cane Creek Elementary**  
+Amphibian Outreach Day, STEM Career Day Assembly Speaker  
+
+**American Conservation Experience** Ashevill, NC  
+_Conservation Corp Member_, Daniel Boone National Forest, Great Smoky Mountains National Park,  
+Weed Patch Mountain Spetember 29, 2016 - November 11, 2016  
+
+**University of California-Berkeley** Alamogordo, NM
+_Field Technician_, White Sands National Monumnet June 1, 2016 - July 31, 2016  
+
+**Cincinnati Zoo and Botanical Gardent** Cincinnati, OH Jan. 2015 - Jan. 2017  
+_Relief Animal Keeper_, The Center of COnservation and Research of Endangered Wildlife (CREW)  
+_Lab Technician_, Endocrine Lab, August 2016-Jan. 2017  
+_Volunteer_, Aquatic Salamander Lab, Education, Wild Encounters, and ANimal Procedures  
+Jan 2014 - May 2016 
+
+**The Wilds** Cumberland, OH
+_Wildlife Ecology Scholar Intern_, Summer 2015
+
+###Research Experience
+
+Murray, Christopher M., **Litmer, Allison R.**, Grisnik, Matthew, Stevenson, Mackenzie, Guyer, Craig. 2019.  
+Head shape variation among populations of ground skink (_Scincella lateralis_): a test of river refuge versus drainage-based divergence. _Journal of Zoological Systematics and Evolutionary Research_ (in revision)  
+
+**Litmer, Allison R.**, Murray, Christopher M. 2019. The critical thermal tolerance of invasion: comparative niche breadth of two invasive lizards. _Journal of Thermal Biology_ (in revision)
+
+**Litmer, Allison R.**, Murray, Christopher, M., Hargrove, John S. 2018. _Cryptobranchus alleganiensis_ skeletochronology. _Herpetological Review_ (in press)
+
+**Litmer, Allison R.**, Murray, Christopher M. 2018. Neutrophil: lymphocyte ratios as a measure of chronic stress in populations of the hellbender (_Cryptobranchus alleganiensis_) across a habitat quality gradient. (in prep)
+
+**Litmer, Allison R.**, Durtsche, Richard R. 2018. Seasonal and sexual variation in the diet of the introduced European wall lizard (_Podarcis muralis_) (in prep)
+
+**A closer look into _Podarcis muralis_'s diet and the nutrient contributions of its prey**    
+Research Lab: Dr. Richard Durtsche at Northern Kentucky University  
+
+**Food Preference in _Podarcis muralis_ based on diet content and prey abundance**  
+Research Lab: Dr. Richard Durtsche at Northern Kentucky University  
+
+**Eastern fence lizard (_Sceloporus undulatus_) ecology and habitat use on a reclaimed mine surface**  
+Research performed under Dr. Joe Greathouse at _The Wilds_
+
+###Technical Skills  
+* Microsoft Word, PowerPoint, and Excel
+* Yellow Springs Instrument (YSI) Meter
+* ArcGIS, SPSS, PRIMER, SAS, and R Statiscial Analysis Program
+* Bomb Calorimeter 
+* CNHS Element Analyzer
+* Muffle Furnace 
+* Fecal Hormone Assays Using ELISA
+* Polymerase Chain Reaction and Gel Electrophoresis 
+* Convection Oven
+* Soil, PAR, DO, and pH Probe
+* Densiometer
+* Gastric Lavage 
+* Lyophilization
+* Ultrasound
+* Electrofishing
+
+###Awards and Grants  
+
+* Doctoral Academy Fellowship,  $48,000.00
+* Estes Award, $225.00
+* Graduate Student Travel Fund,  $248.00
+* Dailey Endowment Fund, $250.00
+* Conference Attendance Funds, Organization   
+  of Fish and Wildlife Information Managers, $200.00
+* 1st Place, Kentucky Academy of Science Zoology  
+  Oral Presentation 2015
+  
+###Presentations
+* **A. R. Litmer** and C. Murray. 2018. Neutrophil:Lymphocyte ratios as a measure of chronic stress in populations of the hellbender (_Cryptobranchus allegnaiensis_) across a habitat quality gradient. Great Smoky Mountains National Park.  
+* **A. R. Litmer** and C. Murray. 2018. Neutrophil:Lymphocyte ratios as a measure of chronic stress in populations of the hellbender (_Cryptobranchus allegnaiensis_) across a habitat quality gradient. Joint Meeting of Ichthyologists and Herpetologists. Rochester, NY.  
+* **A. R. Litmer** and C. Murray. 2018. Neutrophil:Lymphocyte ratios as a measure of chronic stress in populations of the hellbender (_Cryptobranchus allegnaiensis_) across a habitat quality gradient. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting. Helen, GA.  
+* **A. R. Litmer** and C. Murray. 2017. Neutrophil:Lymphocyte ratios as a measure of chronic stress in populations of the hellbender (_Cryptobranchus allegnaiensis_) across a habitat quality gradient. Organization of Fish and Wildlife Information Managers. Chattanooga, TN.  
+* **A. R. Litmer** and C. Murray. 2017. Neutrophil:Lymphocyte ratios as a measure of chronic stress in populations of the hellbender (_Cryptobranchus allegnaiensis_) across a habitat quality gradient. Tennessee Herpetological Society. Murfreesboro, TN.  
+*	**A. R. Litmer** and C. Murray. 2017. The critical thermal capacity of dispersal: comparative niche breadth among populations of the Mediterranean gecko (_Hemidactylus turcicus_). Joint Meeting of Ichthyologists and Herpetologists. Austin, TX.
+* **A. R. Litmer** and R. D. Durtsche. 2016. Food preference in _Podarcis muralis_ based on diet content and prey abundance. Conference of Honors. Highland Heights, KY 
+
+###References
+
+**Christopher Murray, Ph. D.**    
+Assistant Professor  
+Department of Biological Sciences  
+Tennessee Technological University  
+1100 N. Dixie Ave.  
+Cookeville, TN  
+931-372-6542  
+cmmurray@tntech.edu  
+
+**S. Bradford Cook, Ph. D.**
+Assistant Professor  
+Department of Biological Sciences  
+Tennessee Technological University  
+1100 N. Dixie Ave.  
+Cookeville, TN 
+931-372-3194  
+sbcook@tntech.edu
+
+**Richard Durdtsche, Ph. D.**  
+Professor and Curator of Zoological Collections                          
+Department of Biological Sciences                                              
+Northern Kentucky University                                                 
+1 Louie B. Nunn Drive                                                           
+Highland Heights, KY   
+(513)702-6918   
+durtsche@nku.edu  
+
+**Lindsey Vansandt, Ph. D., DVM**  
+Staff Scientist  
+Center for Conservation and Research of Endangered Wildlife (CREW)   
+Cincinnati Zoo and Botanical Garden   
+3400 Vine Street  
+Cincinnati, OH   
+(513)569-8223   
+Lindsey.vansandt@cincinnatizoo.org   
+
+
+
+
+
+  
+
