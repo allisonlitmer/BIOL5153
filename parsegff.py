@@ -1,9 +1,10 @@
-#!/usr/bin/env/python3
+#! /usr/bin/env python3
 
 #import the program argparse
 
 import argparse
 import Bio
+import csv
 
 #cerate an ArgumentParser object ('parser') that will hold all the info necessary
 #to parse the command line
@@ -22,15 +23,18 @@ args = parser.parse_args()
 genome = open(args.fasta, "r")
 features = open(args.gff, "r")
 
-#Parse the FASTA File using Biopython
+#use csv reader to parse gff file, use seqIO to parse fasta file, replace line by line code with the csv reader and get GC content
 
-from Bio import SeqIO
-for seqrecord in SeqIO.parse("watermelon.fsa", "fasta"):
-    print("name: " + seqrecord.name)
-    print(" description: " + seqrecord.description)
-    #print("Length: " + len((seqrecord))
+with open('watermelon.gff', 'r') as gff:
+    csvreader = csv.reader(gff, delimiter='\t')
 
-#reading line by line
+    for line in csvreader:
+        if not line:
+            continue
+        else:
+            feature_columns = (line[3], line[4])
+            print(feature_columns)
+            
 
 for line_gff in features:
     line_gff = line_gff.rstrip('\n')
@@ -38,10 +42,16 @@ for line_gff in features:
     #remove line breaks
     #print(line_gff)
 
+#Parse the FASTA File using Biopython
+from Bio import SeqIO
+for seqrecord in SeqIO.parse("watermelon.fsa", "fasta"):
+    print("Description: " + seqrecord.description)
+    print(len(seqrecord.seq))
+    #print(seqrecord.seq)
+    
 #read file line by line starting at second line
 #using the line counter we get it to start at line 2
-
-#solution 2
+#solution 2 for reading starting at second line
 line_counter = 1
 for lines_fasta in genome:
     if line_counter == 2:
@@ -52,10 +62,9 @@ for lines_fasta in genome:
 #split based on tabs
 #sequence, source, feature, begin, end, length, strand, phase, attributes = line.split('\t')
 
-fields = line_gff.split('\t')
-print(fields[3], fields[4])
 
-#extract the DNA seqeuence from the genome for this feature (corresponds to the coordinates in GFF)
+#extract the DNA seqeuence from the genome for this feature (corresponds to the coordinates in GFF)    
+
 substring = sequence[378929:379011]
 
 #print the DNA sequence for this feature
@@ -72,3 +81,4 @@ GC = nucG + nucC
 
 freq = GC/length
 print(freq)
+
